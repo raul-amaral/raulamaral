@@ -10,3 +10,4 @@ deployment:
     - /bin/cp -R lib $DEPLOYPATH
     - /bin/cp -R mail $DEPLOYPATH
     - /bin/cp -R scss $DEPLOYPATH
+    
